@@ -1,5 +1,5 @@
 
-# Ubuntu on dell 7559
+# Ubuntu 17.10 on dell 7559
 
 sudo apt update  
 sudo apt dist-upgrade  
